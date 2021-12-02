@@ -39,3 +39,9 @@ html {
     display: block;
     margin: 0 auto;
   }
+
+  button {
+    background-color: #00539F;
+    border: 1px solid white;
+    border-radius: 5px;
+  }

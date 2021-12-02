@@ -47,6 +47,19 @@ myButton.onclick = function() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 // for image, yet to figure out 
 
 // let myImage = document.querySelector('img');
